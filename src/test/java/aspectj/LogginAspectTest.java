@@ -8,5 +8,6 @@ public class LogginAspectTest {
 	public void test() {
 		Target t = new Target();
 		t.test();
+		t.test2();
 	}
 }
